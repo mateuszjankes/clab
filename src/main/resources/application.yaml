@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "wiki-service"
+
+wikiApi:
+  urlApi: "https://en.wikipedia.org/w/api.php"
+  urlResponse: "https://en.wikipedia.org/wiki/"
